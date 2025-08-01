@@ -1,0 +1,5 @@
+ms-python.python
+esbenp.prettier-vscode
+ms-vscode.cpptools
+eamodio.gitlens
+GitHub.copilot

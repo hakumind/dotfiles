@@ -8,8 +8,8 @@ winget install --id Microsoft.PowerToys --source winget --accept-package-agreeme
 winget install --id voidtools.Everything --source winget --accept-package-agreements
 winget install --id Ditto.Ditto --source winget --accept-package-agreements
 winget install --id AutoHotkey.AutoHotkey --source winget --accept-package-agreements
-winget install --id=Flux.Flux --exact --accept-package-agreements --accept-source-agreements
-winget install --id=VS.RevoUninstaller --exact --accept-package-agreements --accept-source-agreements
+#winget install --id Flux.Flux --accept-package-agreements --accept-source-agreements
+winget install --id VS.RevoUninstaller --accept-package-agreements --accept-source-agreements
 
 # --- 開発環境 ---
 winget install --id Microsoft.VisualStudioCode --source winget --accept-package-agreements
